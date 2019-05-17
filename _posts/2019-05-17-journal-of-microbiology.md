@@ -6,6 +6,7 @@ date:
 tags: []
 banner_image: ''
 related_posts: []
+journalid: 234443
 
 ---
 This is the information about the editorial permissions for this journal.
