@@ -8,6 +8,8 @@ banner_image: ''
 related_posts: []
 
 ---
-This is the information about the editorial permissions for this journal. 
+This is the information about the editorial permissions for this journal.
 
-The idea here is that we could keep changes to this file in sync with git, and use this as a server less approach to keeping content up to date. 
+The idea here is that we could keep changes to this file in sync with git, and use this as a server less approach to keeping content up to date.
+
+This is a new part of my submissions **Guidelines** and I LOVE it. 
